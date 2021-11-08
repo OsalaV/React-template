@@ -20,9 +20,9 @@ const items = [
   //   title: 'Dashboard'
   // },
   {
-    href: '/app/jobs',
+    href: '/app/customers',
     icon: UsersIcon,
-    title: 'Jobs'
+    title: 'Customers'
   }
   // {
   //   href: '/app/products',
